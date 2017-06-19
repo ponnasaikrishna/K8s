@@ -1,0 +1,5 @@
+#surefire
+#Mon Jun 19 14:21:02 CDT 2017
+user.dir=/home/saikrishna/maven/my-app
+localRepository=/root/.m2/repository
+basedir=/home/saikrishna/maven/my-app
